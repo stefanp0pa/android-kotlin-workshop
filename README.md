@@ -4,7 +4,7 @@
 2. Check out the [official documentation](https://developer.android.com/docs) - we will be checking it constantly during the workshop
 3. Make sure to set up an [Android Virtual Device](https://developer.android.com/studio/run/managing-avds) - we will be needing this in order to run our app - additionally, you can learn how to run your Android project directly on your [phone](https://guides.codepath.com/android/Running-Apps-on-Your-Device)
 4. Make sure to brush up on your Object-Oriented Programming knowledge in [Java](https://www.geeksforgeeks.org/java-programming-basics/) before the workshop - we will be using [Kotlin](https://kotlinlang.org/) for our workshop, which is highly simmilar to **Java**
-5. Required knowledge - basic OOP language concepts such as classes, methods, arrays etc.
+5. **Required knowledge** - basic OOP language concepts such as classes, methods, arrays etc.
 
 ### Workshop Plan - TODO Application using Kotlin
 
